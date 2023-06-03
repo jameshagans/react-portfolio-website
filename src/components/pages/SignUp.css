@@ -23,6 +23,7 @@ form {
   flex-direction: column;
   align-items: center;
   margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 form label {

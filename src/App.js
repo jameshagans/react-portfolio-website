@@ -20,8 +20,8 @@ function App() {
           <Route path='blog' exact element={<Blog />} />
           <Route path='sign-up' exact element={<SignUp />} />
         </Routes>
+        <Footer /> 
       </Router>
-      <Footer /> 
     </>
 
   );
