@@ -8,7 +8,7 @@ video {
 
 .hero-container {
   /* background: url('images/bg-img1.jpeg') center center/cover no-repeat; */
-  height: 100vh;
+  height: 90vh;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -64,4 +64,27 @@ video {
   }
 
   .btn {width: 100%;}
+}
+
+.profile{
+  object-fit: contain;
+  height: 30%;
+  border-radius: 50%;
+  margin-top: 10%;
+}
+
+.download-btn {
+  background-color: transparent;
+  color: #fff;
+  padding: 8px 20px;
+  border: 1px solid #fff;
+  transition: all 0.3s ease-out;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.download-btn:hover {
+  background: #fff; 
+  color: #242424;
+  transition: all 0.3s ease-out;
 }

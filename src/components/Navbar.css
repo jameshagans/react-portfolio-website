@@ -63,7 +63,7 @@ i {
 }
 
 .nav-links:hover {
-  border-bottom: 4px solid #fff;
+  border-bottom: 4px solid #fccd56;
   transition: all 0.2s ease-out;
 }
 
@@ -112,7 +112,7 @@ i {
   }
 
   .nav-links:hover {
-    background-color: #fff;
+    background-color: #fccd56;
     color: #242424;
     border-radius: 0;
   }
