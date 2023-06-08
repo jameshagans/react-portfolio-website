@@ -102,6 +102,7 @@ i {
     opacity: 1;
     transition: all 0.5s ease;
     z-index: 1;
+    justify-content: center;
   }
 
   .nav-links {
@@ -155,8 +156,25 @@ i {
   }
 
   .nav-links-mobile:hover {
-    background: #fff;
+    background: #fccd56;
     color: #26254d;
     transition: 250ms;
   }
 }
+
+@media screen and (max-width: 750px) {
+  #root > div.footer-container > div > section {
+   display: none;
+  }
+}
+
+@media screen and (min-width: 1900px) {
+  #root > nav > div > a.btn-mobile > button {
+    width: 150px;
+  }
+  #root > nav > div > a.navbar-logo {
+    width: 400px;
+  }
+
+}
+
