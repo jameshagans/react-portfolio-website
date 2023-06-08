@@ -42,11 +42,11 @@ function Footer() {
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
-              to='https://www.facebook.com/james.hagans2'
+              to='https://github.com/jameshagans'
               target='_blank'
-              aria-label='Facebook'
+              aria-label='Github'
             >
-              <i class='fab fa-facebook-f' />
+              <i class='fab fa-github' />
             </Link>
             <Link
               class='social-icon-link instagram'

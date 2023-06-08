@@ -6,7 +6,7 @@ function Cards() {
   return (
     <div className='cards'>
       <h1>Projects</h1>
-      <p>Here are some the the project I've completed so far</p>
+      <p>Here are some the the projects I've completed so far</p>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>

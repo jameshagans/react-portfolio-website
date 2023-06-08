@@ -33,3 +33,8 @@ h3 {
   margin-bottom: 10px;
 
 }
+
+.statement-wrapper {
+  width: 50%;
+  line-height: 1.5em;
+}
