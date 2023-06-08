@@ -2,7 +2,7 @@
   margin: 0 auto;
   padding: 20px;
   text-align: center;
-  background-color: #f9f9f9;
+  background-color: #fff;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -17,11 +17,15 @@
   margin-top: 20px;
   font-size: 2em;
   font-weight: bold;
+  color: #2d2e32;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h3 {
   font-size: 20px;
   margin-bottom: 20px;
+  color: #2d2e32;
+
 }
 
 .statement {

@@ -5,6 +5,15 @@
 
 h1 {
   text-align: center;
+  color: #2d2e32;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+  margin-top: 10px;
+  text-align: center;
+  color: #2d2e32;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .cards__container {

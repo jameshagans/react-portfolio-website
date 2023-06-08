@@ -9,7 +9,7 @@ function HeroSection() {
       <video src="/videos/video-1.mp4" autoPlay loop muted /> 
       {/* <h1>James Hagans</h1> */}
       <img className='profile' src='/images/profile_img_gray.jpeg' />
-      <p>Full Stack Developer</p>
+      <p>Full Stack Developer/Technical Team Lead</p>
       <div className="hero-btns">
       <a href="/images/resume.pdf" target="_blank" rel="noopener noreferrer" download>
           <button className="download-btn" buttonStyle="btn--outline" buttonSize="btn--large">
